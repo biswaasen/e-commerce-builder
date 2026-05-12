@@ -1,1 +1,1 @@
-ecommerce-store a comprehensive platform designed to allow users to set up their online store or business, list products, and launch their online presence. Customers can purchase products directly from the store, and all operations can be managed from a userfriendly dashboard.
+e-commerce-builder a comprehensive platform designed to allow users to set up their online store or business, list products, and launch their online presence. Customers can purchase products directly from the store, and all operations can be managed from a userfriendly dashboard.
